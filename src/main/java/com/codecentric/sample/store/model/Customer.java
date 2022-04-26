@@ -16,7 +16,7 @@ public class Customer {
         this.id = id;
         this.name = name;
         this.address = address;
-        System.out.println("new Customer(..)");
+        System.out.println("new Customer created..");
     }
 
     public String getId() {
